@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhiwei-zhiwei
 - 👀 I’m interested in Java programing and any insteresting applications or projects.
-- 🌱 I’m currently learning Java, C, C++
+- 🌱 I’m currently learning Java, C, C++, Python
 - 💞️ I’m looking to collaborate on people have same insterests.
 - 📫 How to reach me : zcao72@wisc.edu
 
