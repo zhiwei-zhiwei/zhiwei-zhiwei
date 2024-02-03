@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zhiwei-zhiwei
-- 👀 I’m interested in Java programing and any insteresting applications or projects.
-- 🌱 I’m currently learning Java, C, C++, Python
-- 💞️ I’m looking to collaborate on people have same insterests.
-- 📫 How to reach me : zcao72@wisc.edu
+- Hi, I’m @zhiwei-zhiwei
+- I’m interested in Java programming and any interesting applications or projects.
+- I’m currently learning Java, C, C++, Python
+- I’m looking to collaborate with people who have the same interests.
+- 📫 How to reach me: zhiweizwa@gmail.com
 
 <!---
 zhiwei-zhiwei/zhiwei-zhiwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
